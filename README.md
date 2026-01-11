@@ -11,7 +11,7 @@ Data Scientist
 Машинное обучение: scikit-learn, TensorFlow, Keras NLP, PyTorch, CatBoost, LightGBM\
 Обработка больших данных: PySpark\
 Базы данных: PostgreSQL\
-Контроль версий: Git, GitHub\
+Контроль версий: Git, GitHub
 
 ## Образование
 Курс "Специалист по Data Science", Яндекс Практикум\
