@@ -2,7 +2,7 @@
 Data Scientist
 
 ## Проекты
-Учебные проекты: [ds_study_projects]()
+Учебные проекты: [ds_study_projects](practicum_projects)
 
 ## Навыки
 Программирование: Python\
