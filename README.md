@@ -2,7 +2,7 @@
 Data Scientist
 
 ## Проекты
-Учебные проекты: [ds_study_projects](practicum_projects)
+Учебные проекты: [practicum_projects](https://github.com/elena-ts64/practicum_projects)
 
 ## Навыки
 Программирование: Python\
