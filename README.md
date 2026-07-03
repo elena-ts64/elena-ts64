@@ -17,7 +17,7 @@ Data Scientist
 Курс "Специалист по Data Science", Яндекс Практикум
 
 ## Контакты
-[Telegram](https://t.me/elena_tsve)\
+mail: cvetkovaelena91@yandex.ru\
 WhatsApp: @elena_tsve
 
 
