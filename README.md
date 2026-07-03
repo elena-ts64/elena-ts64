@@ -18,7 +18,7 @@ Data Scientist
 
 ## Контакты
 [Telegram](https://t.me/elena_tsve)
-
+WhatsApp @elena_tsve
 
 
 <!--
